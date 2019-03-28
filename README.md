@@ -1,2 +1,2 @@
 # AlternativeEnergy
-Where is the best location to build wind farms and solar farms?
+Where are the best locations to build wind farms? 
